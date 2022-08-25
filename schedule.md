@@ -22,12 +22,12 @@ Final (optional Pres)
 
 ***Week 1:***
 
-**Aug 25** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1
+**Aug 25** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1 (due Sept 1)
 
 ---
 ***Week 2:***
 
-**Aug 30** SDLC: waterfall, assignment 2 (due Feb 8)
+**Aug 30** SDLC: waterfall, assignment 2 (due Sept 6)
 
 **Sept 1** Agile, project ideas (U.T. Football Game, may affect class, not sure yet)
 
@@ -41,14 +41,14 @@ Final (optional Pres)
 ---
 ***Week 4:***
 
-**Sept 13** Style Guide, assignment 3 (due feb 21), group projects, assignment 4 
+**Sept 13** Style Guide, assignment 3, group projects, assignment 4 
 
 **Sept 15** Scrum, Make sure everyone is in a group, start thinking about the product backlog
 
 ---
 ***Week 5:***
 
-**Sept 20** All groups meet in class to work on product backlog
+**Sept 20** 
 
 **Sept 22** 
 
