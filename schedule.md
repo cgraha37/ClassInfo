@@ -1,4 +1,4 @@
-.5, Intro, Git, assignment 1
+<!--.5, Intro, Git, assignment 1
 2a Intro to SW engineering, SDLC and Waterfall, 2b Agile, project ideas
 3a  intro to Scrum, project ideas, get teams together, 3b Coding standards and Code Reviews, project ideas, get teams together
 start sprint 1
@@ -15,7 +15,7 @@ sprint 4 demo and/or start Pres
 Presx2
 .5 Pres
 Final (optional Pres)
-
+-->
 
 
 # Class Schedule (will be updated throughout the semester)
