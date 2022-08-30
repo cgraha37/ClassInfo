@@ -29,21 +29,21 @@ Final (optional Pres)
 
 **Aug 30** SDLC: waterfall, assignment 2 (due Sept 6)
 
-**Sept 1** Agile, project ideas (U.T. Football Game, may affect class, not sure yet)
+**Sept 1** Agile Methodologies, project ideas
 
 ---
 ***Week 3:***
 
-**Sept 6** Brief intro to Scrum, project ideas, get teams together
+**Sept 6** Agile/Scrum, project ideas, start getting teams together
 
 **Sept 8** Coding standards and Code Reviews, project ideas, get teams together
 
 ---
 ***Week 4:***
 
-**Sept 13** Style Guide, assignment 3, group projects, assignment 4 
+**Sept 13** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 
 
-**Sept 15** Scrum, Make sure everyone is in a group, start thinking about the product backlog
+**Sept 15** Scrum, start thinking about the product backlog
 
 ---
 ***Week 5:***
