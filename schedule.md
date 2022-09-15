@@ -1,22 +1,3 @@
-<!--.5, Intro, Git, assignment 1
-2a Intro to SW engineering, SDLC and Waterfall, 2b Agile, project ideas
-3a  intro to Scrum, project ideas, get teams together, 3b Coding standards and Code Reviews, project ideas, get teams together
-start sprint 1
-sprint 1 midpoint
-.5
-sprint 1 demo, start sprint 2
-sprint 2 midpoint
-sprint 2 demo, start sprint 3
-sprint 3 midpoint
-sprint3 demo, start sprint 4
-sprint 4 midpoint
-sprint 4 demo and/or start Pres
-.5 Pres
-Presx2
-.5 Pres
-Final (optional Pres)
--->
-
 
 # Class Schedule (will be updated throughout the semester)
 
@@ -61,14 +42,15 @@ Daily (Weekly) Scrum and status check
 
 **Sept 27** Only Tuesday groups meet
 
-**Sept 29** Only Thursday gruops meet
+
+**Sept 29** Only Thursday groups meet
 
 ---
 ***Week 7:***
 
 **Oct 4** All groups meet
 
-**Oct 4** Fall Break
+**Oct 6** Fall Break
 
 ---
 ***Week 8:***
