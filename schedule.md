@@ -31,19 +31,38 @@
 
 Sprint 1 planning meeting
 
-**Sept 20** Only Tuesday groups meet
+**Sept 20** Only Tuesday groups meet in class
 
-**Sept 22** Only Thursday groups meet
+- FinDining
+- FireBox
+- ElastiQR
+- BattleBeasts
+- tasktree
+- CryptMSG
+- InventoryManager
+- TripPlanner
+- prodocal
+
+**Sept 22** Only Thursday groups meet class
+
+- WorkoutApp
+- pytris
+- recipebox
+- GitFit
+- nullTime
+- suggestify
+- spvs
+- Meowtillery
+- ChessWebsite
 
 ---
 ***Week 6:***
 
 Daily (Weekly) Scrum and status check
 
-**Sept 27** Only Tuesday groups meet
+**Sept 27** Only Tuesday groups meet in class
 
-
-**Sept 29** Only Thursday groups meet
+**Sept 29** Only Thursday groups meet in class
 
 ---
 ***Week 7:***
@@ -55,11 +74,11 @@ Daily (Weekly) Scrum and status check
 ---
 ***Week 8:***
 
-Sprint 2 Planning Meeting
+Sprint 1 review Meeting (1st Demo), Sprint 2 Planning Meeting
 
-**Oct 11** 
+**Oct 11** Only Tuesday groups meet in class
 
-**Oct 13**
+**Oct 13** Only Thursday groups meet in class
 
 ---
 ***Week 9:***
@@ -139,7 +158,7 @@ Note: Sprint 4 review is part of the final project presentation
 ---
 ***Final:***
 
-**Dec** Final 8:00-10:15 Project presentations
+**Dec 15** Final 8:00-10:15 Project presentations
 
 
 
