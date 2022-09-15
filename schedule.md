@@ -46,28 +46,34 @@ Final (optional Pres)
 **Sept 15** Scrum, start thinking about the product backlog
 
 ---
-***Week 5:***
+***Week 5:*** 
 
-**Sept 20** 
+Sprint 1 planning meeting
 
-**Sept 22** 
+**Sept 20** Only Tuesday groups meet
+
+**Sept 22** Only Thursday groups meet
 
 ---
 ***Week 6:***
 
-**Sept 27** 
+Daily (Weekly) Scrum and status check
 
-**Sept 29** 
+**Sept 27** Only Tuesday groups meet
+
+**Sept 29** Only Thursday gruops meet
 
 ---
 ***Week 7:***
 
-**Oct 4** 
+**Oct 4** All groups meet
 
 **Oct 4** Fall Break
 
 ---
 ***Week 8:***
+
+Sprint 2 Planning Meeting
 
 **Oct 11** 
 
@@ -76,12 +82,16 @@ Final (optional Pres)
 ---
 ***Week 9:***
 
+Sprint 2 Daily (Weekly) Scrum and status check
+
 **Oct 18** 
 
 **Oct 20** 
 
 ---
 ***Week 10:***
+
+Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
 **Oct 25** 
 
@@ -90,12 +100,16 @@ Final (optional Pres)
 ---
 ***Week 11:***
 
+Sprint 3 mid-point
+
 **Nov 1** 
 
 **Nov 3** 
 
 ---
 ***Week 12:***
+
+Sprint 3 Review and Sprint 4 Planning
 
 **Nov 8** 
 
@@ -104,14 +118,21 @@ Final (optional Pres)
 ---
 ***Week 13:***
 
+Sprint 4 mid-point 
+
 **Nov 15**  
 
 **Nov 17** 
 
+Note: Sprint 4 review is part of the final project presentation
+
 ---
 ***Week 14:***
 
-**Nov 22** 
+***Note: Everyone is expected to be in attendance for all project presentations***
+
+
+**Nov 22** Project presentations
 
 **Nov 24** Thanksgiving Break
 
