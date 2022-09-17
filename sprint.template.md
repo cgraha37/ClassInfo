@@ -3,7 +3,7 @@
 (include your name, github id, and group name here)
 
 ### What you planned to do
-(Give a short bulleted list of the items you planned to do for this sprint. Include the github issue number)
+(Give a short bulleted list of the items you planned to do for this sprint. Include the github issue number and link to the issue)
 
 ### What you did not do
 (Give a short bulleted list of the items that you planned to do, but did not accomplish)
