@@ -30,7 +30,7 @@ in this ClassInfo github page.
   blame and filter only the lines from this sprint (git blame filename.cpp | grep your-user-name > output_file). 
   Do not include binary files (like images) or files
   auto-generated from tools. Do include those files in the reflection where you list the files you worked on.
-4. Individually: On Canvas, submit links to your relection file and commits file. Also submit a short sprint 
+4. Individually: On Canvas, submit links to your reflection file and commits file. Also submit a short sprint 
 retrospective to describe what went well in the sprint and what could be improved for the next sprint.
   
  # Due Date
