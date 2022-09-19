@@ -12,7 +12,7 @@
 (List the problems you encountered)
 
 ### Issues you worked on
-(List the specific github issues that you worked on with a link to the issue (ex: [#1](https://github.com/utk-cs340-fall22/ClassInfo/issues/2))).
+(List the specific github issues that you worked on with a link to the issue (ex: [#1](https://github.com/utk-cs340-fall22/ClassInfo/issues/1) Sample Issue)
 
 ### Files you worked on
 (Give a bulleted list of of the files in your github repo that you worked on. Give the full pathname.)
