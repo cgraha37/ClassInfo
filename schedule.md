@@ -67,7 +67,7 @@ Daily (Weekly) Scrum and status check
 ---
 ***Week 7:***
 
-**Oct 4** All groups meet
+**Oct 4** No Class. You are encouraged to meet with your groups.
 
 **Oct 6** Fall Break
 
