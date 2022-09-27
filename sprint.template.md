@@ -15,7 +15,7 @@
 (List the specific github issues that you worked on with a link to the issue (ex: [#1](https://github.com/utk-cs340-fall22/ClassInfo/issues/1) Sample Issue)
 
 ### Files you worked on
-(Give a bulleted list of of the files in your github repo that you worked on. Give the full pathname.)
+(Give a bulleted list of the files in your github repo that you worked on. Give the full pathname.)
 
 ### What you accomplished
 (Give a description of the features you added or tasks you accomplished. Provide some detail here. This section will be a little longer than the bulleted lists above) 
