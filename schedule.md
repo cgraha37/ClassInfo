@@ -103,27 +103,27 @@ Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
 Sprint 3 mid-point
 
-**Nov 1** 
+**Nov 1** Only Tuesday groups meet in class
 
-**Nov 3** 
+**Nov 3** Only Thursday groups meet in class
 
 ---
 ***Week 12:***
 
 Sprint 3 Review and Sprint 4 Planning
 
-**Nov 8** 
+**Nov 8** Only Tuesday groups meet in class
 
-**Nov 10** 
+**Nov 10** Only Thursday groups meet in class
 
 ---
 ***Week 13:***
 
 Sprint 4 mid-point 
 
-**Nov 15**  
+**Nov 15**  Only Tuesday groups meet in class
 
-**Nov 17** 
+**Nov 17** Only Thursday groups meet in class
 
 Note: Sprint 4 review is part of the final project presentation
 
@@ -161,6 +161,7 @@ Note: Sprint 4 review is part of the final project presentation
 
 **Dec 15** Final 8:00-10:15 Project presentations
 
+---
 Final Presentations not yet schedule:
 - FinDining
 - FireBox
