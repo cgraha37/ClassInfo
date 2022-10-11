@@ -134,6 +134,7 @@ Note: Sprint 4 review is part of the final project presentation
 
 
 **Nov 22** Project presentations
+- InventoryManager
 
 **Nov 24** Thanksgiving Break
 
@@ -160,7 +161,24 @@ Note: Sprint 4 review is part of the final project presentation
 
 **Dec 15** Final 8:00-10:15 Project presentations
 
-
+Final Presentations not yet schedule:
+- FinDining
+- FireBox
+- ElastiQR
+- BattleBeasts
+- tasktree
+- CryptMSG
+- TripPlanner
+- prodocal
+- WorkoutApp
+- pytris
+- recipebox
+- GitFit
+- nullTime
+- suggestify
+- spvs
+- Meowtillery
+- ChessWebsite
 
 
 
