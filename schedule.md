@@ -96,16 +96,16 @@ Sprint 2 Review Meeting and Sprint 3 Planning Meeting
 
 **Oct 25** Only Tuesday groups meet in class
 
-**Oct 27** Only Thursday groups meet in class
+**Oct 27** Engineers Day, no class, Thursday groups will demo next Tuesday
 
 ---
 ***Week 11:***
 
 Sprint 3 mid-point
 
-**Nov 1** Only Tuesday groups meet in class
+**Nov 1** Only **Thursday** groups meet in class for Sprint 2 Demo postponed from last week
 
-**Nov 3** Only Thursday groups meet in class
+**Nov 3** 
 
 ---
 ***Week 12:***
