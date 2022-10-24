@@ -105,7 +105,7 @@ Sprint 3 mid-point
 
 **Nov 1** Only **Thursday** groups meet in class for Sprint 2 Demo postponed from last week
 
-**Nov 3** 
+**Nov 3** No class
 
 ---
 ***Week 12:***
