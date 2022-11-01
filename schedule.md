@@ -147,7 +147,7 @@ Note: Sprint 4 review is part of the final project presentation
 
 
 **Dec 1** Project presentations
-
+- Suggestify
 
 ---
 ***Week 16:***
@@ -176,7 +176,7 @@ Final Presentations not yet schedule:
 - recipebox
 - GitFit
 - nullTime
-- suggestify
+
 - spvs
 - Meowtillery
 - ChessWebsite
