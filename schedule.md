@@ -151,6 +151,7 @@ Note: Sprint 4 review is part of the final project presentation
 **Dec 1** Project presentations
 - Suggestify
 - FinDining
+- FireBox
 
 ---
 ***Week 16:***
@@ -158,6 +159,7 @@ Note: Sprint 4 review is part of the final project presentation
 ***Note: Everyone is expected to be in attendance for all project presentations***
 
 **Dec 6** Project presentations (last day of classes)
+- TripPlanner
 
 ---
 ***Final:***
@@ -167,12 +169,12 @@ Note: Sprint 4 review is part of the final project presentation
 ---
 Final Presentations not yet schedule:
 
-- FireBox
+
 
 - BattleBeasts
 
 - CryptMSG
-- TripPlanner
+
 - prodocal
 - WorkoutApp
 - pytris
