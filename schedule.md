@@ -146,6 +146,7 @@ Note: Sprint 4 review is part of the final project presentation
 
 **Nov 29** Project presentations:
 - TaskTree
+- BattleBeasts
 
 
 **Dec 1** Project presentations
@@ -171,7 +172,7 @@ Final Presentations not yet schedule:
 
 
 
-- BattleBeasts
+
 
 - CryptMSG
 
