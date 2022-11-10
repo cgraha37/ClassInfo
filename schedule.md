@@ -147,12 +147,15 @@ Note: Sprint 4 review is part of the final project presentation
 **Nov 29** Project presentations:
 - TaskTree
 - BattleBeasts
+- RecipeBox
 
 
 **Dec 1** Project presentations
 - Suggestify
 - FinDining
 - FireBox
+- Workout App
+- GitFit
 
 ---
 ***Week 16:***
@@ -161,6 +164,9 @@ Note: Sprint 4 review is part of the final project presentation
 
 **Dec 6** Project presentations (last day of classes)
 - TripPlanner
+- Meowtillery
+- nullTime
+
 
 ---
 ***Final:***
@@ -175,16 +181,9 @@ Final Presentations not yet schedule:
 
 
 - CryptMSG
-
-- prodocal
-- WorkoutApp
+- Prodocal
 - pytris
-- recipebox
-- GitFit
-- nullTime
-
-- spvs
-- Meowtillery
+- spvs (either 29 or 6 since 1 is full)
 - ChessWebsite
 
 
