@@ -180,11 +180,11 @@ Final Presentations not yet schedule:
 
 
 
-- CryptMSG
-- Prodocal
-- pytris
-- spvs (either 29 or 6 since 1 is full)
-- ChessWebsite
+- CryptMSG tues
+- Prodocal tues
+- pytris  thur
+- spvs (either 29 or 6 since 1 is full) thur
+- ChessWebsite thur
 
 
 
