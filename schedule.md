@@ -166,6 +166,7 @@ Note: Sprint 4 review is part of the final project presentation
 - TripPlanner
 - Meowtillery
 - nullTime
+- ChessWebsite
 
 
 ---
@@ -184,7 +185,7 @@ Final Presentations not yet schedule:
 - Prodocal tues
 - pytris  thur
 - spvs (either 29 or 6 since 1 is full) thur
-- ChessWebsite thur
+
 
 
 
