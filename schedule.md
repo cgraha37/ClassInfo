@@ -148,6 +148,7 @@ Note: Sprint 4 review is part of the final project presentation
 - TaskTree
 - BattleBeasts
 - RecipeBox
+- SPVS
 
 
 **Dec 1** Project presentations
@@ -179,12 +180,10 @@ Final Presentations not yet schedule:
 
 
 
-
-
 - CryptMSG tues
 - Prodocal tues
 - pytris  thur
-- spvs (either 29 or 6 since 1 is full) thur
+
 
 
 
