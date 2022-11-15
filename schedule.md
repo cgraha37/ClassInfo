@@ -149,6 +149,7 @@ Note: Sprint 4 review is part of the final project presentation
 - BattleBeasts
 - RecipeBox
 - SPVS
+- Prodocal
 
 
 **Dec 1** Project presentations
@@ -168,6 +169,7 @@ Note: Sprint 4 review is part of the final project presentation
 - Meowtillery
 - nullTime
 - ChessWebsite
+- CryptMSG
 
 
 ---
@@ -179,10 +181,7 @@ Note: Sprint 4 review is part of the final project presentation
 Final Presentations not yet schedule:
 
 
-
-- CryptMSG tues
-- Prodocal tues
-- pytris  thur
+- pytris Dec 6?
 
 
 
