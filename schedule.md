@@ -170,7 +170,7 @@ Note: Sprint 4 review is part of the final project presentation
 - nullTime
 - ChessWebsite
 - CryptMSG
-
+- Pytris
 
 ---
 ***Final:***
@@ -178,10 +178,7 @@ Note: Sprint 4 review is part of the final project presentation
 **Dec 15** Final 8:00-10:15 Project presentations
 
 ---
-Final Presentations not yet schedule:
 
-
-- pytris Dec 6?
 
 
 
